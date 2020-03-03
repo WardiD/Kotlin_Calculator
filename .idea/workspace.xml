@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="731da31e-d53d-46dd-a3ab-e6f4460da172" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/calculator/SimpleCalculator.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/calculator/SimpleCalculator.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,7 +102,7 @@
       <updated>1583176472568</updated>
       <workItem from="1583176474242" duration="6837000" />
       <workItem from="1583226558822" duration="960000" />
-      <workItem from="1583269125691" duration="5200000" />
+      <workItem from="1583269125691" duration="5626000" />
     </task>
     <task id="LOCAL-00001" summary="add comments with TODO tasks">
       <created>1583226836876</created>
